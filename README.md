@@ -7,7 +7,7 @@
 ## 2) BeautifulSoup
 ## 3) time
 ## 4) pandas
-#Collected data includes:
+# Collected data includes:
 ## 1) Film Name
 ## 2) Year of release
 ## 3) Rating
@@ -16,7 +16,7 @@
 ## 6) Certificate
 ## 7) Time duration
 ## 8) Metascore
-#Data Source
+# Data Source
 ## Web page::'https://www.imdb.com/search/title/?release_date=2021-01-01,2021-12-31&sort=num_votes,desc&start'
 # Contents of repository
 ## Web scraping codes
